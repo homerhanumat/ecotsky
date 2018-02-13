@@ -9,14 +9,14 @@ params:
   # Conference info
   Name: "eCOTS Ky"
   Description: "A Regional Conference for eCOTS"
-  Date: "May something"
+  Date: "May 20"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Eastern Kenutcky University"
   Address: "Boulevard Kukulcan, 30"
   City:  "Cancún"
   State: "Quintana"
   Images: ["/img/badge.jpg"]
-  GoogleMapsKey: "my-secret-maps-key"
+  GoogleMapsKey: "AIzaSyAoJtUUb4uCUJrbmP6ULEqzw346vu4PF24"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
