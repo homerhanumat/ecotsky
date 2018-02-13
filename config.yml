@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "eCOTS Ky"
   Description: "A Regional Conference for eCOTS"
-  Date: "May 20"
+  Date: "May 25"
   #Price: "Only $100" # If your event is free, just comment this line
   Venue: "Eastern Kenutcky University"
   Address: "Boulevard Kukulcan, 30"
