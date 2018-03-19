@@ -1,0 +1,25 @@
+  Schedule:
+
+    - name: "Deborah Rumsey"
+      photo: 
+      bio: "Dr.Rumsey specializes in statistics education and has written a number of papers and given many talks and workshops on the subject. Her special interests include introductory statistics curriculum and development, teacher training and support, and designing learning spaces."
+      company: "The Ohio State University"
+      link:
+        href: "https://stat.osu.edu/people/rumsey-johnson.1"
+        text: 
+      presentation:
+        title: "Keynote Speaker"
+        description: 
+        time: 
+        
+    - name: "Homer White"
+      photo: "/img/homer_white.jpg"
+      bio: "Homer teaches Computer Science and Statistics, with a focus on computing for data analysis."
+      company: "Georgetown College"
+      link:
+        href: "https://homerhanumat.com"
+        text: 
+      presentation:
+        title: "Data Science in a Liberal Arts College"
+        description: "Is Data Science a 'science'?  How might the answer to that question affect curricular decisions regarding Data Science at a liberal arts college?  In this talk I'll report on how we approach these issues at Georgetown College, and describe a revised Computer Science minor that aims to bring elements of Data Science to students from a potentially wide variety of disciplines."
+        time: 
