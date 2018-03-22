@@ -70,7 +70,7 @@ params:
   Schedule:
 
     - name: "Deborah Rumsey (Keynote Speaker)"
-      photo: 
+      photo: "img/deb.jpg"
       bio: "Dr.Rumsey specializes in statistics education and has written a number of papers and given many talks and workshops on the subject. Her special interests include introductory statistics curriculum and development, teacher training and support, and designing learning spaces."
       company: "The Ohio State University"
       link:
