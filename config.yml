@@ -77,8 +77,8 @@ params:
         href: "https://stat.osu.edu/people/rumsey-johnson.1"
         text:  Deborah's Page
       presentation:
-        title: "Keynote Address"
-        description:
+        title: "Using Data Analytics in Introductory Statistics Courses"
+        description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
         time: 
 
     - name: "Homer White"
