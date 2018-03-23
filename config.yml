@@ -81,6 +81,30 @@ params:
         description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
         time: 
 
+    - name: "J. Jackson Barnette"
+      photo: "/img/barnette.jpeg"
+      bio: "Dr. Barnette received his PhD from The Ohio State University in 1972. In addition to current positions, he has held faculty appointments at Ohio State, Penn State, Virginia, Memphis, Alabama-Tuscaloosa, Iowa, Alabama-Birmingham, and Colorado. He has more than 45 years experience teaching introductory and advanced statistical methods, research/experimental design, psychometrics, and program evaluation. He has served as Associate Dean for Academic Affairs at  Iowa, Alabama-Birmingham, Colorado and Louisville. He has studied the writings of Mark Twain for almost 50 years. Hal Holbrook (who plays Mark Twain in <em>Mark Twain Tonight</em>) refers to him as the 'Mark Twain Statistics Professor.'"
+      company: "University of Louisville School of Public Health and Information Sciences"
+      link:
+        href: "http://louisville.edu/sphis/directory/jack-barnette-phd"
+        text: "Jacks' Page"
+      presentation:
+        title: "Mark Twain, Author and Statistician"
+        description: "Most are familiar with Twain’s works **Tom Sawyer** and **Huckleberry Finn** and a few of his other well-known publications. However, not many are aware of Twain’s works that reveal a very keen sense of statistics, including research design, central tendency and variability, correlation and prediction,  hypothesis testing, inferential statistics, and probability. This presentation provides examples of Twain’s knowledge and applications of statistical thinking using excerpts from books, short stories, and speeches."
+        time: 
+
+    - name: "Benjamin Nutter"
+      photo: ""
+      bio: ""
+      company: "Eastern Kentucky University"
+      link:
+        href: ""
+        text: ""
+      presentation:
+        title: "Do Something Interesting: Lessons Learned for Teaching Statistical Programming"
+        description: "Statistical programming and data analysis are valuable skills that have appeal to social, biological, economic, mathematical and computer sciences. Teaching statistical programming to such a wide audience comes with both technical and pedagogical challenges. By necessity, these courses must incorporate aspects of statistical and computer science theory, but cannot assume a deep theoretical understanding in either subject. This talk reviews the lessons learned by a full-time industry statistician over two semesters of teaching statistical programming at Eastern Kentucky University. These topics include focusing on making the content engaging and fun, teaching programming as a puzzle-solving activity, reducing the initial technical burden for students, recommendations for the order in which to introduce topics, and feedback from students on what was successful and what was frustrating."
+        time: 
+
     - name: "Homer White"
       photo: "/img/homer_white.jpg"
       bio: "Homer teaches Computer Science and Statistics, with a focus on computing for data analysis."
@@ -101,7 +125,7 @@ params:
         href: 
         text: 
       presentation:
-        title: "More Speakers to be Announced Soon!"
+        title: "**More Speakers to be Announced Soon!**"
         description:
         time: 
         
