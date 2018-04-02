@@ -94,12 +94,12 @@ params:
         time: 
 
     - name: "Benjamin Nutter"
-      photo: ""
-      bio: ""
-      company: "Eastern Kentucky University"
+      photo: "/img/nutter.png"
+      bio: "Benjamin Nutter provides statistical support for the Bluegrass Chemical Agent Destruction Pilot Plant in Richmond, Kentucky. He has previously worked as a senior biostatistician at the Cleveland Clinic in Cleveland, Ohio. In his spare time, he has taught statistical programming using R at Eastern Kentucky University. Benjamin is the author of five published R packages and an evangelist for open source and reproducible philosophies. He has a master's degree in Statistics from the University of Southern Maine."
+      company: "Battelle Memorial Institute"
       link:
-        href: ""
-        text: ""
+        href: "http://www.suchanutter.net/"
+        text: "Ben's Site"
       presentation:
         title: "Do Something Interesting: Lessons Learned for Teaching Statistical Programming"
         description: "Statistical programming and data analysis are valuable skills that have appeal to social, biological, economic, mathematical and computer sciences. Teaching statistical programming to such a wide audience comes with both technical and pedagogical challenges. By necessity, these courses must incorporate aspects of statistical and computer science theory, but cannot assume a deep theoretical understanding in either subject. This talk reviews the lessons learned by a full-time industry statistician over two semesters of teaching statistical programming at Eastern Kentucky University. These topics include focusing on making the content engaging and fun, teaching programming as a puzzle-solving activity, reducing the initial technical burden for students, recommendations for the order in which to introduce topics, and feedback from students on what was successful and what was frustrating."
