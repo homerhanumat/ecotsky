@@ -70,7 +70,7 @@ params:
   Schedule:
 
     - name: "Deborah Rumsey (Keynote Speaker)"
-      photo: "img/deb.jpg"
+      photo: "/img/deb.jpg"
       bio: "Dr.Rumsey specializes in statistics education and has written a number of papers and given many talks and workshops on the subject. Her special interests include introductory statistics curriculum and development, teacher training and support, and designing learning spaces."
       company: "The Ohio State University"
       link:
@@ -80,6 +80,14 @@ params:
         title: "Using Data Analytics in Introductory Statistics Courses"
         description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
         time: 
+
+    - name: "Dora Ahmadi"
+      photo: "/img/dora.gif"
+      bio: "Dora Cardenas Ahmadi spent her undergraduate years at Mercy College of the University of New York where she earned B.S. degree in mathematics, and at the University of Houston where she completed a B.S. degree in chemical engineering. She received her M.A. and Ph.D. in mathematics from the University of Oklahoma. Dr. Ahmadi taught middle school and high school students before advancing to the college level. She then became a member of the faculty at Morehead State University. During her tenure there,  she served as the Chair of the Department of Mathematics, Computer Science, and Physics for 10 years. She retired in July 2017 after 22 years of service to Morehead State University. Dr. Ahmadi has been active in several professional organizations. Her membership in Project NExT sparked interest in new ways of teaching. She has given numerous talks on the use of technology, reading, writing, oral communication, and group work to promote active learning. She was the 2005 Kentucky Section of the MAA Distinguished Teaching Award winner."
+      company: "Morehead State University"
+      presentation:
+        title: "Mastery Assessment in Teaching Statistics"
+        description: "The presentation will describes various opportunities for students to achieve mastery through projects, assignments, and testing with the goal of making statistics accessible to all. "
 
     - name: "J. Jackson Barnette"
       photo: "/img/barnette.jpeg"
@@ -115,18 +123,6 @@ params:
       presentation:
         title: "Data Science in a Liberal Arts College"
         description: "Is Data Science a 'science'?  How might the answer to that question affect curricular decisions regarding Data Science at a liberal arts college?  In this talk I'll report on how we approach these issues at Georgetown College, and describe a revised Computer Science minor that aims to bring elements of Data Science to students from a potentially wide variety of disciplines."
-        time: 
-
-    - name: 
-      photo: 
-      bio: 
-      company: 
-      link:
-        href: 
-        text: 
-      presentation:
-        title: "**More Speakers to be Announced Soon!**"
-        description:
         time: 
         
 
