@@ -69,37 +69,8 @@ params:
   # The entire schedule
   Schedule:
 
-    - name: "Deborah Rumsey (Keynote Speaker)"
-      photo: "/img/deb.jpg"
-      bio: "Dr.Rumsey specializes in statistics education and has written a number of papers and given many talks and workshops on the subject. Her special interests include introductory statistics curriculum and development, teacher training and support, and designing learning spaces."
-      company: "The Ohio State University"
-      link:
-        href: "https://stat.osu.edu/people/rumsey-johnson.1"
-        text:  Deborah's Page
-      presentation:
-        title: "Using Data Analytics in Introductory Statistics Courses"
-        description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
-        time: 
-
-    - name: "Dora Ahmadi"
-      photo: "/img/dora.gif"
-      bio: "Dora Cardenas Ahmadi spent her undergraduate years at Mercy College of the University of New York where she earned B.S. degree in mathematics, and at the University of Houston where she completed a B.S. degree in chemical engineering. She received her M.A. and Ph.D. in mathematics from the University of Oklahoma. Dr. Ahmadi taught middle school and high school students before advancing to the college level. She then became a member of the faculty at Morehead State University. During her tenure there,  she served as the Chair of the Department of Mathematics, Computer Science, and Physics for 10 years. She retired in July 2017 after 22 years of service to Morehead State University. Dr. Ahmadi has been active in several professional organizations. Her membership in Project NExT sparked interest in new ways of teaching. She has given numerous talks on the use of technology, reading, writing, oral communication, and group work to promote active learning. She was the 2005 Kentucky Section of the MAA Distinguished Teaching Award winner."
-      company: "Morehead State University"
-      presentation:
-        title: "Mastery Assessment in Teaching Statistics"
-        description: "The presentation will describes various opportunities for students to achieve mastery through projects, assignments, and testing with the goal of making statistics accessible to all. "
-
-    - name: "J. Jackson Barnette"
-      photo: "/img/barnette.jpeg"
-      bio: "Dr. Barnette received his PhD from The Ohio State University in 1972. In addition to current positions, he has held faculty appointments at Ohio State, Penn State, Virginia, Memphis, Alabama-Tuscaloosa, Iowa, Alabama-Birmingham, and Colorado. He has more than 45 years experience teaching introductory and advanced statistical methods, research/experimental design, psychometrics, and program evaluation. He has served as Associate Dean for Academic Affairs at  Iowa, Alabama-Birmingham, Colorado and Louisville. He has studied the writings of Mark Twain for almost 50 years. Hal Holbrook (who plays Mark Twain in <em>Mark Twain Tonight</em>) refers to him as the 'Mark Twain Statistics Professor.'"
-      company: "University of Louisville School of Public Health and Information Sciences"
-      link:
-        href: "http://louisville.edu/sphis/directory/jack-barnette-phd"
-        text: "Jacks' Page"
-      presentation:
-        title: "Mark Twain, Author and Statistician"
-        description: "Most are familiar with Twain’s works *Tom Sawyer* and *Huckleberry Finn* and a few of his other well-known publications. However, not many are aware of Twain’s works that reveal a very keen sense of statistics, including research design, central tendency and variability, correlation and prediction,  hypothesis testing, inferential statistics, and probability. This presentation provides examples of Twain’s knowledge and applications of statistical thinking using excerpts from books, short stories, and speeches."
-        time: 
+    - name:  Registration and Breakfast
+      time:  8:30am
 
     - name: "Benjamin Nutter"
       photo: "/img/nutter.png"
@@ -111,11 +82,51 @@ params:
       presentation:
         title: "Do Something Interesting: Lessons Learned for Teaching Statistical Programming"
         description: "Statistical programming and data analysis are valuable skills that have appeal to social, biological, economic, mathematical and computer sciences. Teaching statistical programming to such a wide audience comes with both technical and pedagogical challenges. By necessity, these courses must incorporate aspects of statistical and computer science theory, but cannot assume a deep theoretical understanding in either subject. This talk reviews the lessons learned by a full-time industry statistician over two semesters of teaching statistical programming at Eastern Kentucky University. These topics include focusing on making the content engaging and fun, teaching programming as a puzzle-solving activity, reducing the initial technical burden for students, recommendations for the order in which to introduce topics, and feedback from students on what was successful and what was frustrating."
-        time: 
+        time: 9:15am
+
+    - name: "Dora Ahmadi"
+      photo: "/img/dora.gif"
+      bio: "Dora Cardenas Ahmadi spent her undergraduate years at Mercy College of the University of New York where she earned B.S. degree in mathematics, and at the University of Houston where she completed a B.S. degree in chemical engineering. She received her M.A. and Ph.D. in mathematics from the University of Oklahoma. Dr. Ahmadi taught middle school and high school students before advancing to the college level. She then became a member of the faculty at Morehead State University. During her tenure there,  she served as the Chair of the Department of Mathematics, Computer Science, and Physics for 10 years. She retired in July 2017 after 22 years of service to Morehead State University. Dr. Ahmadi has been active in several professional organizations. Her membership in Project NExT sparked interest in new ways of teaching. She has given numerous talks on the use of technology, reading, writing, oral communication, and group work to promote active learning. She was the 2005 Kentucky Section of the MAA Distinguished Teaching Award winner."
+      company: "Morehead State University"
+      presentation:
+        title: "Mastery Assessment in Teaching Statistics"
+        description: "The presentation will describes various opportunities for students to achieve mastery through projects, assignments, and testing with the goal of making statistics accessible to all. "
+        time: 10:00am
+
+    - name: Break
+      time: 10:45am
+
+    - name: "Deborah Rumsey (Keynote Speaker)"
+      photo: "/img/deb.jpg"
+      bio: "Dr.Rumsey specializes in statistics education and has written a number of papers and given many talks and workshops on the subject. Her special interests include introductory statistics curriculum and development, teacher training and support, and designing learning spaces."
+      company: "The Ohio State University"
+      link:
+        href: "https://stat.osu.edu/people/rumsey-johnson.1"
+        text:  Deborah's Page
+      presentation:
+        title: "Using Data Analytics in Introductory Statistics Courses"
+        description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
+        time: 11:00am
+
+    - name:  Lunch
+      time:  12pm
+      description: Join eCOTS presentations (at discretion of participants).
+
+    - name: "J. Jackson Barnette"
+      photo: "/img/barnette.jpeg"
+      bio: "Dr. Barnette received his PhD from The Ohio State University in 1972. In addition to current positions, he has held faculty appointments at Ohio State, Penn State, Virginia, Memphis, Alabama-Tuscaloosa, Iowa, Alabama-Birmingham, and Colorado. He has more than 45 years experience teaching introductory and advanced statistical methods, research/experimental design, psychometrics, and program evaluation. He has served as Associate Dean for Academic Affairs at  Iowa, Alabama-Birmingham, Colorado and Louisville. He has studied the writings of Mark Twain for almost 50 years. Hal Holbrook (who plays Mark Twain in <em>Mark Twain Tonight</em>) refers to him as the 'Mark Twain Statistics Professor.'"
+      company: "University of Louisville School of Public Health and Information Sciences"
+      link:
+        href: "http://louisville.edu/sphis/directory/jack-barnette-phd"
+        text: "Jacks' Page"
+      presentation:
+        title: "Mark Twain, Author and Statistician"
+        description: "Most are familiar with Twain’s works *Tom Sawyer* and *Huckleberry Finn* and a few of his other well-known publications. However, not many are aware of Twain’s works that reveal a very keen sense of statistics, including research design, central tendency and variability, correlation and prediction,  hypothesis testing, inferential statistics, and probability. This presentation provides examples of Twain’s knowledge and applications of statistical thinking using excerpts from books, short stories, and speeches."
+        time: 1:00pm
 
     - name: "Homer White"
       photo: "/img/homer_white.jpg"
-      bio: "Homer teaches Computer Science and Statistics, with a focus on computing for data analysis."
+      bio: "Homer is Professor of Mathematics and Chair of the Mathematics, Physics and Computer Science Department at Georgetown College.  He teaches Computer Science and Statistics, with a focus on computing for data analysis.  He is the author of several R packages for statistics education and web-app development, and is working on a <a href='https://homerhanumat.github.io/r-notes' taeget='_blank'>textbook</a> for beinning computer science using the R language.  He has also worked in the history of mathematics, especially Leonard Euler and the mathematics of premodern South Asia."
       company: "Georgetown College"
       link:
         href: "https://homerhanumat.com"
@@ -123,6 +134,6 @@ params:
       presentation:
         title: "Data Science in a Liberal Arts College"
         description: "Is Data Science a 'science'?  How might the answer to that question affect curricular decisions regarding Data Science at a liberal arts college?  In this talk I'll report on how we approach these issues at Georgetown College, and describe a revised Computer Science minor that aims to bring elements of Data Science to students from a potentially wide variety of disciplines."
-        time: 
+        time: 1:45pm
         
 

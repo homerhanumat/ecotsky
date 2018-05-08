@@ -10,9 +10,6 @@
     {{ end }}
 
     <h3 class="speech-title">
-      {{ with .presentation.time }}
-      <span class="speech-time">{{ . }}</span>
-      {{ end }}
       <span>{{ markdownify .presentation.title }}</span>
     </h3>
 
@@ -22,12 +19,6 @@
       {{ end }}
     </h3>
     <p class="speakers-bio">{{ markdownify .bio }}</p>
-    <div class = "speakers-abstract">
-        {{ if .presentation.description }}
-        <h4>Abstract</h4>
-        {{ end }}
-        <p class="speakers-bio">{{ markdownify .presentation.description }}</p>
-    </div>
     
   </li>
 {{ end }}
