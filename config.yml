@@ -126,7 +126,7 @@ params:
 
     - name: "Homer White"
       photo: "/img/homer_white.jpg"
-      bio: "Homer is Professor of Mathematics and Chair of the Mathematics, Physics and Computer Science Department at Georgetown College.  He teaches Computer Science and Statistics, with a focus on computing for data analysis.  He is the author of several R packages for statistics education and web-app development, and is working on a <a href='https://homerhanumat.github.io/r-notes' taeget='_blank'>textbook</a> for beinning computer science using the R language.  He has also worked in the history of mathematics, especially Leonard Euler and the mathematics of premodern South Asia."
+      bio: "Homer is Professor of Mathematics and Chair of the Mathematics, Physics and Computer Science Department at Georgetown College.  He teaches Computer Science and Statistics, with a focus on computing for data analysis.  He is the author of several R packages for statistics education and web-app development, and is working on a <a href='https://homerhanumat.github.io/r-notes' taeget='_blank'>textbook</a> for beginning computer science using the R language.  He has also worked in the history of mathematics, especially Leonard Euler and the mathematics of premodern South Asia."
       company: "Georgetown College"
       link:
         href: "https://homerhanumat.com"
