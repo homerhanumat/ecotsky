@@ -131,6 +131,9 @@ params:
       link:
         href: "https://homerhanumat.com"
         text: "Homer's Blog"
+      slides:
+        href: "data_science_liberal_arts.html"
+        text: "Presentation Slides"
       presentation:
         title: "Data Science in a Liberal Arts College"
         description: "Is Data Science a 'science'?  How might the answer to that question affect curricular decisions regarding Data Science at a liberal arts college?  In this talk I'll report on how we approach these issues at Georgetown College, and describe a revised Computer Science minor that aims to bring elements of Data Science to students from a potentially wide variety of disciplines."

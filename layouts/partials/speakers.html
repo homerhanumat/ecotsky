@@ -10,7 +10,11 @@
     {{ end }}
 
     <h3 class="speech-title">
+      {{ if .slides }}
+      <a href="{{ .slides.href }}" target="_blank"><span>{{ markdownify .presentation.title }}</span></a>
+      {{ else }}
       <span>{{ markdownify .presentation.title }}</span>
+      {{ end }}
     </h3>
 
     <h3 class="speakers-name">{{ .name }}
