@@ -79,6 +79,9 @@ params:
       link:
         href: "http://www.suchanutter.net/"
         text: "Ben's Site"
+      slides:
+        href: "nutter.html"
+        text: "Presentation Slides"
       presentation:
         title: "Do Something Interesting: Lessons Learned for Teaching Statistical Programming"
         description: "Statistical programming and data analysis are valuable skills that have appeal to social, biological, economic, mathematical and computer sciences. Teaching statistical programming to such a wide audience comes with both technical and pedagogical challenges. By necessity, these courses must incorporate aspects of statistical and computer science theory, but cannot assume a deep theoretical understanding in either subject. This talk reviews the lessons learned by a full-time industry statistician over two semesters of teaching statistical programming at Eastern Kentucky University. These topics include focusing on making the content engaging and fun, teaching programming as a puzzle-solving activity, reducing the initial technical burden for students, recommendations for the order in which to introduce topics, and feedback from students on what was successful and what was frustrating."
@@ -88,9 +91,15 @@ params:
       photo: "/img/dora.gif"
       bio: "Dora Cardenas Ahmadi spent her undergraduate years at Mercy College of the University of New York where she earned B.S. degree in mathematics, and at the University of Houston where she completed a B.S. degree in chemical engineering. She received her M.A. and Ph.D. in mathematics from the University of Oklahoma. Dr. Ahmadi taught middle school and high school students before advancing to the college level. She then became a member of the faculty at Morehead State University. During her tenure there,  she served as the Chair of the Department of Mathematics, Computer Science, and Physics for 10 years. She retired in July 2017 after 22 years of service to Morehead State University. Dr. Ahmadi has been active in several professional organizations. Her membership in Project NExT sparked interest in new ways of teaching. She has given numerous talks on the use of technology, reading, writing, oral communication, and group work to promote active learning. She was the 2005 Kentucky Section of the MAA Distinguished Teaching Award winner."
       company: "Morehead State University"
+      slides:
+        href: "ahmadi.ppt"
+        text: "Presentation Slides"
+      extra:
+        href: "ahmadi_rubrics.docx"
+        text: "here."
       presentation:
         title: "Mastery Assessment in Teaching Statistics"
-        description: "The presentation will describes various opportunities for students to achieve mastery through projects, assignments, and testing with the goal of making statistics accessible to all. "
+        description: "The presentation will describes various opportunities for students to achieve mastery through projects, assignments, and testing with the goal of making statistics accessible to all. **Note**:  project rubrics to accompany this talk are available "
         time: 10:00am
 
     - name: Break
@@ -103,6 +112,9 @@ params:
       link:
         href: "https://stat.osu.edu/people/rumsey-johnson.1"
         text:  Deborah's Page
+      slides:
+        href: "rumsey.pptx"
+        text: "Presentation Slides"
       presentation:
         title: "Using Data Analytics in Introductory Statistics Courses"
         description: "Data Analytics is the hottest topics in statistics right now, and everyone is jumping on the bandwagon. But before we jump on the bandwagon, we might want to know, exactly what is data analytics, and have I been already doing it in my classroom? And if I haven’t, how can I incorporate these methods into my class in appropriate places? In this talk we will examine various definitions of data analytics and how they apply to introductory statistics. I’ll give examples of how I’ve used it in my classes, including a final project where students are assigned to airlines in groups, and have to compete to convince a group of meeting planners that their airline should be chosen as the official airline for the 2019 JSM. You will find data analytics does not have to turn your course upside down, and it does not have to be intimidating. It’s more of a state of mind."
