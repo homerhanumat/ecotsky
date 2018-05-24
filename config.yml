@@ -119,6 +119,9 @@ params:
       link:
         href: "http://louisville.edu/sphis/directory/jack-barnette-phd"
         text: "Jacks' Page"
+      slides:
+        href: "barnette.pptx"
+        text: "Presentation Slides"
       presentation:
         title: "Mark Twain, Author and Statistician"
         description: "Most are familiar with Twain’s works *Tom Sawyer* and *Huckleberry Finn* and a few of his other well-known publications. However, not many are aware of Twain’s works that reveal a very keen sense of statistics, including research design, central tendency and variability, correlation and prediction,  hypothesis testing, inferential statistics, and probability. This presentation provides examples of Twain’s knowledge and applications of statistical thinking using excerpts from books, short stories, and speeches."
