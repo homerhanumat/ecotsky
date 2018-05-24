@@ -3,10 +3,11 @@ title: "Data Science in a Liberal Arts College"
 author: "Homer White, Georgetown College"
 output:
   ioslides_presentation:
-    incremental: yes
+    incremental: no
     mathjax: no
-    widescreen: yes
+    widescreen: no
     standalone:  true
+    transition: slower
 ---
 
 ```{r include=FALSE}
@@ -24,6 +25,13 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+body {
+  background: linear-gradient(to bottom, #c9d6ff, #e2e2e2) !important;
+}
+slides > slide.backdrop {
+  background:  none !important;
+  background-color: white !important;
 }
 </style>
 
@@ -58,7 +66,7 @@ Let's just see how ordinary mortals try to answer it.
 
 >*Science is the pursuit and application of knowledge and understanding of the natural and social world following a systematic methodology based on evidence.*
 
-## What I Take From This { .build }
+## What I Take From This
 
 Three marks of a science:
 
@@ -86,13 +94,13 @@ Three marks of a science:
 
 ## For My Part ...
 
-.. I call it "data analysis", not "data science."
+... I call it "data analysis", not "data science."
 
 (ideally, anyway ...)
 
 # Data Science in the Liberal Arts
 
-## Not a Major { .build }
+## Not a Major
 
 * lacks intellectual coherence
 * too much a tool
@@ -109,7 +117,7 @@ But it could work nicely as a minor!
 4. The College wanted something in the catalog to call Computer Science.
 5. Someone agreed to retrain.
 
-## Criteria { .build }
+## Criteria
 
 * a sense of closure (should not be a truncated CS major)
 * an air of practicality

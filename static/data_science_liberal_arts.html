@@ -63,18 +63,18 @@
     }
 
     slides > slide {
-      -webkit-transition: all 0.4s ease-in-out;
-      -moz-transition: all 0.4s ease-in-out;
-      -o-transition: all 0.4s ease-in-out;
-      transition: all 0.4s ease-in-out;
+      -webkit-transition: all 0.6s ease-in-out;
+      -moz-transition: all 0.6s ease-in-out;
+      -o-transition: all 0.6s ease-in-out;
+      transition: all 0.6s ease-in-out;
     }
 
     .auto-fadein {
       -webkit-transition: opacity 0.6s ease-in;
-      -webkit-transition-delay: 0.4s;
-      -moz-transition: opacity 0.6s ease-in 0.4s;
-      -o-transition: opacity 0.6s ease-in 0.4s;
-      transition: opacity 0.6s ease-in 0.4s;
+      -webkit-transition-delay: 0.6s;
+      -moz-transition: opacity 0.6s ease-in 0.6s;
+      -o-transition: opacity 0.6s ease-in 0.6s;
+      transition: opacity 0.6s ease-in 0.6s;
       opacity: 0;
     }
 
@@ -85,7 +85,7 @@
 
 <body style="opacity: 0">
 
-<slides class="layout-widescreen">
+<slides>
 
   <slide class="title-slide segue nobackground">
         <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
@@ -108,6 +108,13 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+body {
+  background: linear-gradient(to bottom, #c9d6ff, #e2e2e2) !important;
+}
+slides > slide.backdrop {
+  background:  none !important;
+  background-color: white !important;
+}
 </style>
 
 <slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Is Data Science a Science?</h2></hgroup><article  id="is-data-science-a-science">
@@ -116,7 +123,7 @@ img {
 
 <p>Take a couple of minutes to jot down:</p>
 
-<ul class = 'build'>
+<ul>
 <li>at least one reason why Data Science is a science</li>
 <li>at least one reason why it isn&#39;t</li>
 </ul>
@@ -147,14 +154,14 @@ img {
 <p><em>Science is the pursuit and application of knowledge and understanding of the natural and social world following a systematic methodology based on evidence.</em></p>
 </blockquote>
 
-</article></slide><slide class=""><hgroup><h2>What I Take From This</h2></hgroup><article  id="what-i-take-from-this" class="build">
+</article></slide><slide class=""><hgroup><h2>What I Take From This</h2></hgroup><article  id="what-i-take-from-this">
 
 <p>Three marks of a science:</p>
 
-<ul class = 'build'>
+<ul>
 <li>The object of study is a demarcated domain or aspect of the natural world:
 
-<ul class = 'build'>
+<ul>
 <li>in biology, it&#39;s organic life;</li>
 <li>in physics, it&#39;s the fundamental constituents of the material universe and their interactions;</li>
 <li>in chemistry, it&#39;s atoms in combination;</li>
@@ -168,7 +175,7 @@ img {
 
 <p>&#8230; in relation to science?</p>
 
-<ul class = 'build'>
+<ul>
 <li>mathematics</li>
 <li>statistics</li>
 <li>computer science</li>
@@ -182,15 +189,15 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>For My Part &#8230;</h2></hgroup><article  id="for-my-part-...">
 
-<p>.. I call it &quot;data analysis&quot;, not &quot;data science.&quot;</p>
+<p>&#8230; I call it &quot;data analysis&quot;, not &quot;data science.&quot;</p>
 
 <p>(ideally, anyway &#8230;)</p>
 
 </article></slide><slide class="segue dark nobackground level1"><hgroup class = 'auto-fadein'><h2>Data Science in the Liberal Arts</h2></hgroup><article  id="data-science-in-the-liberal-arts">
 
-</article></slide><slide class=""><hgroup><h2>Not a Major</h2></hgroup><article  id="not-a-major" class="build">
+</article></slide><slide class=""><hgroup><h2>Not a Major</h2></hgroup><article  id="not-a-major">
 
-<ul class = 'build'>
+<ul>
 <li>lacks intellectual coherence</li>
 <li>too much a tool</li>
 </ul>
@@ -199,10 +206,10 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>History at Georgetown</h2></hgroup><article  id="history-at-georgetown">
 
-<ol class = 'build'>
+<ol>
 <li>Began as Data Analysis Minor, with two tracks:
 
-<ul class = 'build'>
+<ul>
 <li>Applied Statistics (calc-based)</li>
 <li>Data Computing (heavily dependent on Computer Science offerings)</li>
 </ul></li>
@@ -212,9 +219,9 @@ img {
 <li>Someone agreed to retrain.</li>
 </ol>
 
-</article></slide><slide class=""><hgroup><h2>Criteria</h2></hgroup><article  id="criteria" class="build">
+</article></slide><slide class=""><hgroup><h2>Criteria</h2></hgroup><article  id="criteria">
 
-<ul class = 'build'>
+<ul>
 <li>a sense of closure (should not be a truncated CS major)</li>
 <li>an air of practicality</li>
 <li>appeal to students in many disciplines</li>
@@ -226,7 +233,7 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>Courses</h2></hgroup><article  id="courses">
 
-<ul class = 'build'>
+<ul>
 <li>Computer Science I (R programming, procedural)</li>
 <li>Computer Science II (more R, functional/oo programming)</li>
 <li>Fundamentals of Data Computing</li>
@@ -237,7 +244,7 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>The R Ecosystem</h2></hgroup><article  id="the-r-ecosystem">
 
-<ul class = 'build'>
+<ul>
 <li>R Studio Server</li>
 <li>R Markdown</li>
 <li>R Pubs</li>
@@ -250,7 +257,7 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>Challenges</h2></hgroup><article  id="challenges">
 
-<ul class = 'build'>
+<ul>
 <li>mathematical preparation</li>
 <li>web designers</li>
 <li>IT issues (mostly in Web Programming)</li>
@@ -258,7 +265,7 @@ img {
 
 </article></slide><slide class=""><hgroup><h2>Resources</h2></hgroup><article  id="resources">
 
-<ul class = 'build'>
+<ul>
 <li><a href='http://gccs.surge.sh' title=''>GC Computer Science</a></li>
 <li><a href='https://homerhanumat.github.io/r-notes' title=''>Beginning Computer Science with R</a></li>
 <li><a href='https://mdsr-book.github.io/' title=''>Modern Data Science with R</a></li>
