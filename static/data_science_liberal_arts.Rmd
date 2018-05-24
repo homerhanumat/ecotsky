@@ -4,7 +4,7 @@ author: "Homer White, Georgetown College"
 output:
   ioslides_presentation:
     incremental: yes
-    mathjax: none
+    mathjax: no
     widescreen: yes
     standalone:  true
 ---
@@ -149,5 +149,6 @@ So,
 
 * [GC Computer Science](http://gccs.surge.sh)
 * [Beginning Computer Science with R](https://homerhanumat.github.io/r-notes)
+* [Modern Data Science with R](https://mdsr-book.github.io/)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
 
