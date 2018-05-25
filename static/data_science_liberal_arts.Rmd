@@ -127,6 +127,10 @@ So,
 
 **Data Computing &rarr; Data Analysis &rarr; "Computer Science"**
 
+## The Primary Language-Vehicle
+
+![](stat_cars.jpeg)
+
 ## Courses
 
 * Computer Science I  (R programming, procedural)
@@ -159,4 +163,6 @@ So,
 * [Beginning Computer Science with R](https://homerhanumat.github.io/r-notes)
 * [Modern Data Science with R](https://mdsr-book.github.io/)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
+
+
 
